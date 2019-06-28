@@ -8,3 +8,6 @@ After a period of time, asteroids will begin to float back into space so the ent
 Players can either attack other players who are mining to get their mined resources, or attack the other player's base and gain more territory. 
 Territory is necessary to build more buildings to expand your colony. Differnt types of buildings can be made such as defense buildings, energy buildings, manufactuing plants, etc. 
 Throughout the game, players can upgrade their buildings and ships to perform better, such as building and mining faster, have more health, have better attack stats, etc.
+
+Rise up Gamers.
+:)
